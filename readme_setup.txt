@@ -1,0 +1,1 @@
+Instruções iniciais do RecomeçoIA 

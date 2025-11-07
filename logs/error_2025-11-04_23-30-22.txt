@@ -1,0 +1,2 @@
+ERRO NA EXECUÇÃO:
+Erro no upload Cloudinary: {"error":{"message":"Upload preset must be specified when using unsigned upload"}}

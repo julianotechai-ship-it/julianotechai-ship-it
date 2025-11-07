@@ -1,0 +1,2 @@
+ERRO NA EXECUÇÃO:
+frases.txt não encontrado. Coloque suas frases lá.
